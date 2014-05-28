@@ -1,0 +1,158 @@
+
+.heading {
+	font-size: 30;
+	float: left;
+	width: 100%;
+	letter-spacing: -1.5px;
+	margin-top: -10px;
+	margin-left:-7px;
+	padding-right: 14px;
+	font-variant: inherit;
+	border-top-right-radius: 65px;
+	border-bottom-left-radius: 65px;
+	height: 100px;
+	margin-right: 0px;
+	background: -webkit-linear-gradient(left, #1F000F, #660033, #1F000F, #660033, #1F000F);
+}
+
+.heading h1 {
+	bottom: 2px;
+	left:25px;
+	position: relative;
+	color:#5C7A99;
+	margin-top: 11px;
+	font-family: raive;
+	text-shadow: -5px 0px #1F000A, 0 1px #1F000A, 2px 0 #1F000A, 0 -1px #1F000A;
+}
+
+div ul li {
+	display:inline-block;
+	background-color:#B2B28F;
+	float:right;
+	text-align: center;
+	width: 21%;
+	position: relative;
+	bottom: 19px;
+	padding-top: 5px;
+	font-size: 18px;
+	padding-bottom: 3px;
+	font-weight: bold;
+	font-family: harrington;
+	margin-right: 12px;
+	border-bottom:5px;
+	margin-bottom: 10px;
+	text-align: center;
+	margin-top: 2px;
+}
+
+div ul li a {
+	display: block;
+	height: 30px;
+	text-align: center; 
+	border-bottom:5px;
+	position: relative;
+	font-size: 20;
+	margin-top: 2px;
+}
+
+
+.international {
+	height: 30px;
+	position: relative;
+}
+
+.sub1 li {
+	display: none;
+	position:relative;
+	width:100%;
+	height: 20px;
+	margin-bottom:-8px;
+	margin-top:12px ;
+	float: right;
+	font-size: 17;
+	margin-right: 4px;
+	padding: 2px;
+	text-align: center;
+	left:-20px;
+}
+
+.sub1 li a {
+	text-align: left;
+	margin-right: 15px;
+	
+	
+}
+
+.sub2 li {
+	position: relative;
+	left: 15px;
+	top: -30px; 
+	width: 100%;
+	text-align: left;
+	margin-top: -3px;
+	margin-bottom: 4px;
+	display: none;
+	float: left;
+}
+
+div ul li:hover li{
+	display: block;
+}
+
+a.sub2.sub1:hover {
+	display: block;
+}
+
+
+a:link {
+	text-decoration: none;
+}
+
+a:visited {
+	color:#520029;
+}
+
+a:hover {
+	color: #293D66;
+}
+
+.search {
+	float: right;
+	margin-top:-15px;
+	clear: right;
+	margin-right: 0px;
+}
+
+.body {
+font-family:broadway;
+font-size:25;
+float: left;
+margin-top: -20px;
+text-align: center;
+width: 100%;
+margin-top: -5px;
+padding-bottom: 100%;
+padding-top: -40px;
+background-color: #141F33;
+position: relative;
+color:#E6E6B8;
+
+
+}
+
+.body h2 {
+	margin-top: -5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
